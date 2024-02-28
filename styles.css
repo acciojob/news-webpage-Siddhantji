@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+.header{
+	background-color:#011e29;
+	text-align:center;
+	color:white;
+	padding:10px;
+}
+.white{
+	background-color:white !important;
+}
+.flex{
+	display:flex;
+	background-color:#f5f5f5;
+	justify-content:space-between;
+}
+.center{
+	text-align:center;
+}
+.latest-news-section{
+	width:250px
+}
+.pictorial-news-section{
+	display:flex;
+	flex-direction:column;
+	gap:10px
+}
+
+	
